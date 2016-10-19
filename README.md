@@ -1,9 +1,10 @@
 # Bibliothek_Scratch
-Content for the Kids Code Club Bibliothek Stuttgart
+Einführungstutorial für "Programmieren mit Kindern" in der Stadtbibliothek Stuttgart
 
-##Projects taken from https://www.codeclubworld.org
+##Projekte von https://www.codeclubworld.org
 
-###Rock Band (easy level)
+###Deine eigene Rock Band (einfach)
+<a href='./easy_task/easy_scratch.pdf'>Die ganze PDF downloaden</a>
 ![page1](./easy_task/p1.jpg)
 ![page2](./easy_task/p2.jpg)
 ![page3](./easy_task/p3.jpg)
@@ -12,4 +13,8 @@ Content for the Kids Code Club Bibliothek Stuttgart
 ![page6](./easy_task/p6.jpg)
 ![page7](./easy_task/p7.jpg)
 
-###Chat Bot (intermediate level)
+###Chat mit einem Alien (fortgeschritten)
+//ausstehend
+
+###2 Spieler Elfmeter (experte)
+//ausstehend
