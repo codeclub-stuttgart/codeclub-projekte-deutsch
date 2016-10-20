@@ -14,7 +14,14 @@ Einführungstutorial für "Programmieren mit Kindern" in der Stadtbibliothek Stu
 ![page7](./easy_task/p7.jpg)
 
 ###Chat mit einem Alien (fortgeschritten)
-//ausstehend
+<a href='./intermed_task/intermed_task.pdf'>Die ganze PDF downloaden</a>
+![page1](./intermed_task/p1.jpg)
+![page2](./intermed_task/p2.jpg)
+![page3](./intermed_task/p3.jpg)
+![page4](./intermed_task/p4.jpg)
+![page5](./intermed_task/p5.jpg)
+![page6](./intermed_task/p6.jpg)
+![page7](./intermed_task/p7.jpg)
 
 ###2 Spieler Elfmeter (experte)
 //ausstehend
