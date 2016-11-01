@@ -37,4 +37,3 @@ Einführungstutorial für "Programmieren mit Kindern" in der Stadtbibliothek Stu
 ![page4](./hard_task/p4.jpg)
 ![page5](./hard_task/p5.jpg)
 ![page6](./hard_task/p6.jpg)
-![page7](./hard_task/p7.jpg)
