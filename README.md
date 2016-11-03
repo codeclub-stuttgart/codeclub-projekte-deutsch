@@ -6,6 +6,8 @@ Einführungstutorial für "Programmieren mit Kindern" in der Stadtbibliothek Stu
 
 <img src="img/1.JPG"></img>
 <img src="img/2.JPG"></img>
+<img src="img/3.jpeg"></img>
+<img src="img/4.jpg"></img>
 
 ##Projekte von https://www.codeclubworld.org
 
