@@ -4,6 +4,9 @@ Einführungstutorial für "Programmieren mit Kindern" in der Stadtbibliothek Stu
 <img src="http://www.swr.de/-/id=18334170/property=gallery/pubVersion=3/burxgj/Ein%20Kind%20%20sitzt%20vor%20einem%20Computer.jpg"></img>
 ####Source: <a href="http://www.swr.de/landesschau-aktuell/bw/stuttgart/stadtbibliothek-stuttgart-bilder-zum-fuenfjaehrigen-jubilaeum/-/id=1592/did=18334662/gp1=18334662/gp2=18334170/nid=1592/vv=gallery/1ub7gvz/index.html" target="_blank">SWR</a>
 
+<img src="img/1.JPG"></img>
+<img src="img/2.JPG"></img>
+
 ##Projekte von https://www.codeclubworld.org
 
 ###Deine eigene Rock Band (einfach)
@@ -34,4 +37,3 @@ Einführungstutorial für "Programmieren mit Kindern" in der Stadtbibliothek Stu
 ![page4](./hard_task/p4.jpg)
 ![page5](./hard_task/p5.jpg)
 ![page6](./hard_task/p6.jpg)
-![page7](./hard_task/p7.jpg)
