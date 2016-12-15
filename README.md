@@ -1,4 +1,4 @@
-# Bibliothek_Scratch
+# Codeclub Projekte Deutsch
 Einführungstutorial für "Programmieren mit Kindern" in der Stadtbibliothek Stuttgart
 
 ##Projekte von https://www.codeclubworld.org
