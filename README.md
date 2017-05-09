@@ -1,9 +1,9 @@
 # Codeclub Projekte Deutsch
 Einführungstutorial für "Programmieren mit Kindern" in der Stadtbibliothek Stuttgart
 
-##Projekte von https://www.codeclubworld.org
+## Projekte von https://www.codeclubworld.org
 
-###Deine eigene Rock Band (einfach)
+### Deine eigene Rock Band (einfach)
 <a href='./easy_task/easy_scratch.pdf'>Die ganze PDF downloaden</a>
 ![page1](./easy_task/p1.jpg)
 ![page2](./easy_task/p2.jpg)
@@ -13,7 +13,7 @@ Einführungstutorial für "Programmieren mit Kindern" in der Stadtbibliothek Stu
 ![page6](./easy_task/p6.jpg)
 ![page7](./easy_task/p7.jpg)
 
-###Chat mit einem Alien (fortgeschritten)
+### Chat mit einem Alien (fortgeschritten)
 <a href='./intermed_task/intermed_task.pdf'>Die ganze PDF downloaden</a>
 ![page1](./intermed_task/p1.jpg)
 ![page2](./intermed_task/p2.jpg)
@@ -23,7 +23,7 @@ Einführungstutorial für "Programmieren mit Kindern" in der Stadtbibliothek Stu
 ![page6](./intermed_task/p6.jpg)
 ![page7](./intermed_task/p7.jpg)
 
-###2 Spieler Elfmeter (experte)
+### 2 Spieler Elfmeter (experte)
 <a href='./hard_task/hard_scratch.pdf'>Die ganze PDF downloaden</a>
 ![page1](./hard_task/p1.jpg)
 ![page2](./hard_task/p2.jpg)
